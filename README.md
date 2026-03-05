@@ -59,10 +59,28 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=canburakyol&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Can Burak Akyol's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canburakyol&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Top Languages" />
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **Upwork:** [Hire me on Upwork](https://www.upwork.com/)
+- 📧 **Location:** Turkey
+- 🌐 **Portfolio & Web:** [canburakyol.github.io](https://canburakyol.github.io)
+
+---
+
+## 🎯 Current Focus
+
+- ✅ Mastering cross-platform mobile development
+- ✅ Contributing to open-source agentic AI tooling
+- ✅ Delivering high-value global projects for international clients
 
 <br/>
 
 <div align="center">
+  <blockquote><b>"Code is poetry, but the user experience is the masterpiece."</b></blockquote>
   <b>Let's build your next big idea at lightning speed! ⚡</b>
 </div>
